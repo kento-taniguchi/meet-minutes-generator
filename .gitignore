@@ -1,0 +1,9 @@
+# 秘密の情報（絶対に公開しない）
+.env
+credentials.json
+token.json
+
+# 自動で作られるもの
+output/
+__pycache__/
+.venv/
